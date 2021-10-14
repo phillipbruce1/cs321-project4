@@ -1,0 +1,62 @@
+k
+degree (t)
+root node pointer (line number)
+total number of nodes
+
+
+
+
+Self-pointer (Line Number)
+Is Leaf (1 or 0)
+Parent Pointer (Line Number) (root node parent -1)
+Number of Objects Stored
+Number of children
+degree + 1 child pointers
+ |
+ |
+ |
+just ints (line number)
+ |
+ |
+\/
+degree (t) + 1 possible children
+degree (t) possible stored objects/values
+ |
+ |
+ |
+1 1000101010101
+frequency value
+ |
+ |
+\/
+
+
+
+00034
+0
+00005
+10
+67
+89
+123
+
+
+
+
+
+1 10001010101110101
+
+00004 1010...............
+1 10101010101011010
+3 00000000000000000
+
+7 10101010011110100
+
+23 10101010010101011
+837 01010100101010101
+
+
+
+
+
+
