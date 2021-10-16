@@ -1,8 +1,8 @@
 # Project 4 - BTree
 
 Authors: Phillip Bruce, Wesley Brown
-CS321
-Dr. Yeh
+
+CS321 - Dr. Yeh
 
 ## Overview
 
